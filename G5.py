@@ -1,3 +1,2 @@
-def multiply(a,b):
-    return a * b
-
+def f5(x):
+    return x + 5
